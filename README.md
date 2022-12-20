@@ -1,0 +1,2 @@
+# git-from-eclips
+config
